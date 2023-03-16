@@ -1,7 +1,7 @@
 Hi 👋 My name is Ajay Pediredla
 ===============================
 
-ReactJS Developer @MIDAS IIITD | MERN Developer | Python | c/c++
+Software Engineering Intern @MIDAS IIITD | MERN Developer | Python | c/c++
 -----------------------------------------------------------------
 
 * 🌍  I'm based in India
