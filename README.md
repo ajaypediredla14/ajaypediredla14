@@ -6,8 +6,7 @@ SDE @ Kyron | MERN Developer | Python | c/c++
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://jay-498.github.io/BuildCV-using-React/)
-* ✉️  You can contact me at [pedire41\_soe@jnu.ac.in](mailto:pedire41_soe@jnu.ac.in)
-* 🧠  I'm learning MERN and MEVN
+* ✉️  You can contact me at [ajaypediredla14@gmail.com](mailto:ajaypediredla14@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
