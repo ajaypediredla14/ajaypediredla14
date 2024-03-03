@@ -5,7 +5,7 @@ SDE @ Kyron | MERN Developer | Python | c/c++
 -----------------------------------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://jay-498.github.io/BuildCV-using-React/)
+* 🖥️  See my portfolio at [MyPortfolio](http://ajaypediredla14.github.io/BuildCV-using-React/)
 * ✉️  You can contact me at [ajaypediredla14@gmail.com](mailto:ajaypediredla14@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects
 
@@ -31,16 +31,16 @@ SDE @ Kyron | MERN Developer | Python | c/c++
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/ajaypediredla#8351" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/jay-498" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_ajay_pediredla_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ajay-pediredla-125887191/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ajaypediredla1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/ajaypediredla#8351" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ajaypediredla14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_ajay_pediredla_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ajay-pediredla/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ajaypediredla1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jay-498"><img src="https://github-readme-stats.vercel.app/api?username=jay-498&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jay-498's GitHub stats" /></a>
+<a href="http://www.github.com/ajaypediredla14"><img src="https://github-readme-stats.vercel.app/api?username=ajaypediredla14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ajaypediredla14's GitHub stats" /></a>
 
-<a href="http://www.github.com/jay-498"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-498&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ajaypediredla14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaypediredla14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/jay-498"><img src="https://activity-graph.herokuapp.com/graph?username=jay-498&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ajaypediredla14"><img src="https://activity-graph.herokuapp.com/graph?username=ajaypediredla14&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/jay-498" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-498&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ajaypediredla14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypediredla14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
