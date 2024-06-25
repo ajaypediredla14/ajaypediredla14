@@ -1,7 +1,7 @@
 Hi 👋 My name is Ajay Pediredla
 ===============================
 
-SDE @ Kyron | MERN Developer | Python | c/c++
+SDE | Full Stack Developer | Python | c/c++
 -----------------------------------------------------------------
 
 * 🌍  I'm based in India
